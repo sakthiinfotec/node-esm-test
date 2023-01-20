@@ -1,0 +1,11 @@
+{
+  "engines": {
+    "node": ">=14.16"
+  },
+  "name": "node-esm-test",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
